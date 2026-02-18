@@ -1,6 +1,6 @@
 # Glassmorphism Login Form
 
-*Created by [Param Shelke](https://github.com/param-atxep/) for [Colorlib](https://colorlib.com)*
+*Created by [Param Shelke](https://github.com/param-atxep/) 
 
 ![Glassmorphism Login Form Preview](../../assets/screenshots/glassmorphism.png)
 
