@@ -2,7 +2,7 @@
 
 *Created by [Param Shelke](https://github.com/param-atxep/) 
 
-![Glassmorphism Login Form Preview](../.image-68-1024x679.png)
+![Glassmorphism Login Form Preview](image-68-1024x679.png)
 
 A modern login form featuring the popular glassmorphism design trend with frosted glass effects and smooth animations.
 
